@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in San Jose-Sunnyvale-Santa Clara, CA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in San Jose-Sunnyvale-Santa Clara (Metro), California, US",
-  "export_job_id": "52a13ee5-b5b4-45f8-832c-9dcc3a0bcd55",
+  "export_job_id": "f814cc55-9a30-4daa-b6a2-9f39a443dc23",
   "github_org": "Beamstation-Datasets",
   "id_short": 263684,
   "location_name": "San Jose-Sunnyvale-Santa Clara, CA",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-san-jose-sunnyvale-santa-clara-metro-california-us-sample-263684",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/263684/beamstation_263684_food_and_drink-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
-  "sample_pct": 7.41,
+  "sample_pct": 6.9,
   "sample_records": 2,
-  "sample_sha256": "89f1c742d8036b4eb8680595ba88eab66579a7fc6e0dd54b59ab84dfb2e60dac",
-  "sample_size_bytes": 24201,
-  "total_records": 27,
-  "updated_at": "2026-04-22T00:31:19.430900+00:00"
+  "sample_sha256": "ca2d91bcbbcbced22c8d6af303ea570d78913d73f964e14fb34aa9f21a5fd885",
+  "sample_size_bytes": 23631,
+  "total_records": 29,
+  "updated_at": "2026-04-29T03:38:36.497048+00:00"
 }
