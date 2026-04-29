@@ -9,9 +9,9 @@
 | Dataset ID | `263684` |
 | Location | San Jose-Sunnyvale-Santa Clara, CA |
 | Category | Restaurants |
-| Full dataset size | 27 records |
-| Free sample size | 2 records (7.41%) |
-| Last export | 2026-04-22T00:31:19.430900+00:00 |
+| Full dataset size | 29 records |
+| Free sample size | 2 records (6.9%) |
+| Last export | 2026-04-29T03:38:36.497048+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-san-jose-sunnyvale-santa-clara-metro-california-us-sample-263684/releases/download/sample-latest/beamstation_263684_food_and_drink-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
