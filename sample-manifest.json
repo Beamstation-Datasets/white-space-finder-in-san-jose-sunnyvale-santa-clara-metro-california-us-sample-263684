@@ -1,12 +1,12 @@
 {
-  "export_job_id": "52a13ee5-b5b4-45f8-832c-9dcc3a0bcd55",
+  "export_job_id": "f814cc55-9a30-4daa-b6a2-9f39a443dc23",
   "id_short": 263684,
-  "published_at": "2026-04-22T07:16:43Z",
+  "published_at": "2026-04-29T07:29:33Z",
   "repo_name": "white-space-finder-in-san-jose-sunnyvale-santa-clara-metro-california-us-sample-263684",
   "sample_asset_name": "beamstation_263684_food_and_drink-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/263684/beamstation_263684_food_and_drink-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "89f1c742d8036b4eb8680595ba88eab66579a7fc6e0dd54b59ab84dfb2e60dac",
-  "sample_size_bytes": 24201,
-  "total_records": 27
+  "sample_sha256": "ca2d91bcbbcbced22c8d6af303ea570d78913d73f964e14fb34aa9f21a5fd885",
+  "sample_size_bytes": 23631,
+  "total_records": 29
 }
